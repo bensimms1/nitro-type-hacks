@@ -1,2 +1,2 @@
-# nitro-type-hacks
+# Nitro Type Hacks
 Click the bookmark when the countdown starts(or when the box with the letters appears.) Make sure the box is fully loaded before clicking. Modify the accuracy=100 variable to change the "accuracy." Don't type at 300 wpm, that will definitely get your account banned. Try to go 70-80 wpm with the accuracy on like 95%. This will be much harder to detect, and will make sure the anticheat doesn't detect you. If you get banned, it's not my fault. Use with caution!
